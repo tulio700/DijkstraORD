@@ -22,18 +22,5 @@ class Heap{
 
       void printHeap();
 
-      // void maxHeapify(int i);   //MAXIMO
-      // void buildMaxHeap(int t);
-      //
-      // void minHeapify(int i);  //MINIMO
-      // void buildMinHeap(int t);
-      //
-      // void heapSort();
-      //
-      // void freeVector(); //libera mallocs
-      // void printVector(int pos);
-      //
-      // int getComprimento();
-      // void setComprimento(int val);
 };
 #endif
